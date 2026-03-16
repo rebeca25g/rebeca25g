@@ -3,7 +3,7 @@
 📊 **Business Intelligence Analyst | Data Analytics**
 
 My goal is to transform raw data into **actionable business insights** through dashboards, analytics, and data storytelling.
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHAzdmNjYm1sbHhyeDVxcHE1bTRic2t1YTVzYzgxNjU1enZpY3k4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif
+![cute gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHAzdmNjYm1sbHhyeDVxcHE1bTRic2t1YTVzYzgxNjU1enZpY3k4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif)
 
 ---
 
