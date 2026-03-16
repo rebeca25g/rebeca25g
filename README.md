@@ -1,9 +1,10 @@
 # Hi there 👋 I'm Rebeca,
 
+<img align="right" width="250" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif">
+
 📊 **Business Intelligence Analyst | Data Analytics**
 
 My goal is to transform raw data into **actionable business insights** through dashboards, analytics, and data storytelling.
-<img align="right" width="250" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif">
 
 ---
 
