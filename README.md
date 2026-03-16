@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there 👋 I'm Rebeca,
 
-<!--
-**rebeca25g/rebeca25g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Business Intelligence Analyst | Data Analytics**
 
-Here are some ideas to get you started:
+My goal is to transform raw data into **actionable business insights** through dashboards, analytics, and data storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+Currently building a portfolio focused on **Business Intelligence and Analytics**, where I analyze datasets, build dashboards, and extract insights that help businesses make better decisions.
+
+My work combines:
+
+• Data Analysis
+• Business Metrics & KPIs
+• Dashboard Development
+• Data Storytelling
+
+---
+
+## 🎯 Areas of Interest
+
+* Business Intelligence
+* Data Visualization
+* KPI & Performance Tracking
+* Product & Customer Analytics
+* Data-driven decision making
+
+---
+
+## 🛠 Skills
+
+### Data Analysis
+
+* Python (Pandas, NumPy)
+* SQL
+* Excel / Google Sheets
+
+### Business Intelligence
+
+* Power BI
+* Dashboard Design
+* KPI Development
+
+### Data Visualization
+
+* Power BI
+* Matplotlib / Seaborn
+
+### Tools
+
+* Git & GitHub
+* Jupyter Notebook
+
+## 📫 Connect With Me
+
+LinkedIn: [(https://www.linkedin.com/in/rebeca-gregu%C8%99-222740163/)]
+Portfolio: [if you build one]
