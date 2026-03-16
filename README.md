@@ -56,4 +56,4 @@ My work combines:
 ## 📫 Connect With Me
 
 LinkedIn: [(https://www.linkedin.com/in/rebeca-gregu%C8%99-222740163/)]
-Portfolio: [if you build one]
+Portfolio: 
