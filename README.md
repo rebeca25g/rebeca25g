@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rebeca,
 
-📊 **Business Intelligence Analyst | Data Analytics**
+📊 **Business Analytics**
 
 My goal is to transform raw data into **actionable business insights** through dashboards, analytics, and data storytelling.
 
