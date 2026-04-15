@@ -8,11 +8,10 @@ My goal is to transform raw data into **actionable business insights** through d
 
 ## 🚀 About Me
 
-Currently building a portfolio focused on **Business Intelligence and Analytics**, where I analyze datasets, build dashboards, and extract insights that help businesses make better decisions.
+Currently building a portfolio focused on **Business Analytics**, where I analyze datasets, build dashboards, and extract insights that help businesses make better decisions.
 
 My work combines:
 
-• Data Analysis
 • Business Metrics & KPIs
 • Dashboard Development
 • Data Storytelling
@@ -21,7 +20,7 @@ My work combines:
 
 ## 🎯 Areas of Interest
 
-* Business Intelligence
+* Business Analytics
 * Data Visualization
 * KPI & Performance Tracking
 * Product & Customer Analytics
@@ -31,14 +30,11 @@ My work combines:
 
 ## 🛠 Skills
 
-### Data Analysis
+### Business Analysis
 
 * Python (Pandas, NumPy)
 * SQL
 * Excel / Google Sheets
-
-### Business Intelligence
-
 * Power BI
 * Dashboard Design
 * KPI Development
