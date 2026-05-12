@@ -35,7 +35,6 @@ My work combines:
 * Python (Pandas, NumPy)
 * SQL
 * Excel / Google Sheets
-* Power BI
 * Dashboard Design
 * KPI Development
 
@@ -53,3 +52,5 @@ My work combines:
 
 LinkedIn: [(https://www.linkedin.com/in/rebeca-gregu%C8%99-222740163/)]
 Portfolio: 
+
+
